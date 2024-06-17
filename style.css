@@ -1,0 +1,11 @@
+:root {
+    --azul-claro: #ebecee;
+}
+
+body {
+    background-color: var(--azul-claro);
+}
+
+h1 {
+    background-color: white;
+}
